@@ -10,3 +10,6 @@
 [submodule "base-boost_serialization"]
 	path = base-boost_serialization
 	url = git@github.com:envire/base-boost_serialization.git
+[submodule "base-logging"]
+	path = base-logging
+	url = https://github.com/rock-core/base-logging.git
