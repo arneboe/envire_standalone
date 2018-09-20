@@ -1,0 +1,12 @@
+[submodule "envire-envire_core"]
+	path = envire-envire_core
+	url = git@github.com:envire/envire-envire_core.git
+[submodule "base-cmake"]
+	path = base-cmake
+	url = https://github.com/rock-core/base-cmake.git
+[submodule "base-types"]
+	path = base-types
+	url = https://github.com/rock-core/base-types.git
+[submodule "base-boost_serialization"]
+	path = base-boost_serialization
+	url = git@github.com:envire/base-boost_serialization.git
